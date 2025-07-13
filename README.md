@@ -1,7 +1,7 @@
 # Forest-Cover-Type-prediction
 
 # Introduction
-This repository documents a project focused on predicting forest cover types using the Kaggle dataset: Forest Cover Type Prediction Dataset. The project is part of the Big Data module of ENIT's 3rd year MIndS 2024-2025 program and is undertaken by Group 4: Chaima Balti, Roukaya Lakhzouri, and Salsabil Rouahi. We are working under the supervision of our professor, Moez Ben Haj Hmida.
+This repository documents a project focused on predicting forest cover types using the Kaggle dataset: Forest Cover Type Prediction Dataset. This project is done by Sinchan Birsal and Vedashree G R
 
 The primary goal of this project is to explore and apply various machine learning techniques to accurately classify forest cover types based on features related to soil, climate, and topography.
 
